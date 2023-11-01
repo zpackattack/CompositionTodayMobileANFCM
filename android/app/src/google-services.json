@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126089046159",
+    "project_id": "awesomefcmpractice",
+    "storage_bucket": "awesomefcmpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126089046159:android:b199e396fd8ebe70cae8fa",
+        "android_client_info": {
+          "package_name": "com.example.awesome_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMw2rGEjXAnRcdPXsh3Gs8uvPJweRnbkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
