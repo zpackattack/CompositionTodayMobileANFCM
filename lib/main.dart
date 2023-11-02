@@ -19,6 +19,7 @@ Future<void> main() async {
   await NotificationController.initializeIsolateReceivePort();
   await NotificationController.getInitialNotificationAction();
   runApp(const MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: Scaffold(
       body: SafeArea(
         child: Browser(
